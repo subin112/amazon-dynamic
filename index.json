@@ -228,7 +228,13 @@
 "img":"icons/bluapple.jpg",
 "iphone1":"Apple iPhone 16 Plus (256 GB) - Ultramarine",
 "two":"28"
+},
+{
+"img":"https://m.media-amazon.com/images/I/81weRj535kL._AC_SR292,236_QL70_.jpg",
+"iphone1":"Apple iPhone 13 Pro (256 GB) - Ultramarine",
+"two":"28"
 }
+
 ],
 "result":"Results",
 "checks":"Check each products for other buying options",

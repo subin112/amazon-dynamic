@@ -484,7 +484,7 @@ rightSideMain.appendChild(applebox);
       const resulttxt = document.createElement("div");
       resulttxt.className = "spanLeft";
       resulttxt.innerHTML = `<span>${data.result}</span>
-<span>${data.checks}<span/>`;
+<span class="last">${data.checks}<span/>`;
       resultIN.appendChild(resulttxt);
 
       const sponsor = document.createElement("div");

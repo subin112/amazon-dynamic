@@ -533,7 +533,7 @@ margin-top: 25px;
 height: 12px;
     background-position: -138px -73px;
     width: 42px;
-}
+ }
 .rightSideMain{
   width: 84.3%;
 }
@@ -875,6 +875,8 @@ background-position: -10px -240px;
   display: flex;
   max-height: 44px;
   height: 100%;
+/* padding: 0 10px; */
+margin-bottom: 4px;
 margin: auto;
 margin-bottom: 4px;
 }
@@ -894,6 +896,7 @@ margin-bottom: 4px;
     width: 50px;
     background-position: 2px -280px;
 border-radius: 8px;
+height: 44px;
   }
   .rightmobserch{
     display:flex;
@@ -912,6 +915,9 @@ border-radius: 8px;
 .whitenav{
 box-shadow: none;
 }
+.last{
+  display: none;
+}
 nav{
   height: 44px;
   display: flex;
@@ -924,6 +930,9 @@ display: flex;
 .love{
   display: flex;
   align-items: center;
+}
+.love{
+  padding: 12px 10px 12px 10px;
 }
 .loveimg{
   background-position: -75px -340px;
@@ -1156,6 +1165,7 @@ color: #111}
 }
 .inputmob{
   padding-left: 10px;
+  border-radius: 8px;
 }
 .seconds img{
   max-width: 90px;
@@ -1167,16 +1177,11 @@ color: #111}
 color: rgb(15, 17, 17);
 display: '-webkit-box';
 font-size: 12px;
-height: 31.1875px;
 line-height: 15.6px;
 max-width: 104.828px;
 
+}
 
-}
-.mainSearchArea{
-  width: 60%;
-  margin: auto;
-}
 .downsearch{
   width: 60%;
 }
@@ -1184,9 +1189,30 @@ max-width: 104.828px;
   width: 100%;
 }
 
+.prime{
+  display: none;
+}
+.seconds{
+  display: inline-flex;
+}
+
 }
 @media (max-width:400px) {
   .mobileview{
     column-gap: 0;
+  }
+  .pagination a {
+   padding: 10px;
+  }
+  .mobIMg img{
+    max-width: 108px;
+  }
+  .mobIMg{
+    padding: 20px 28px;
+  }
+  .pagination{
+    display: flex;
+    margin: auto;
+    justify-content: center;
   }
 }
