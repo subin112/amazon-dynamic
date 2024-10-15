@@ -77,7 +77,6 @@ document.addEventListener("DOMContentLoaded", () => {
       cart.innerHTML = `<div class="img-carter"></div> <div class="zero">0</div>
 <div class="carter">${data.header.carttxt}</div>`;
 
-
       const fullnav = document.querySelector(".full-nav");
       const menu = document.querySelector(".menu");
       const rightmenu = document.querySelector(".right-nav");
@@ -425,38 +424,36 @@ document.addEventListener("DOMContentLoaded", () => {
       rightContent.appendChild(rightappletxt);
       rightSideMain.appendChild(rightContent);
 
-const wall = document.createElement('div')
-wall.className = 'wall'
-data.grid.forEach(item=>{
-  const wallin = document.createElement('div')
-  wallin.className = 'wallet'
-  wallin.innerHTML = item.sio
-  wall.appendChild(wallin)
-})
-rightContent.appendChild(wall)
-
-
+      const wall = document.createElement("div");
+      wall.className = "wall";
+      data.grid.forEach((item) => {
+        const wallin = document.createElement("div");
+        wallin.className = "wallet";
+        wallin.innerHTML = item.sio;
+        wall.appendChild(wallin);
+      });
+      rightContent.appendChild(wall);
 
       // apple
-    const applebox = document.createElement("div");
-applebox.className = "apple-box";
+      const applebox = document.createElement("div");
+      applebox.className = "apple-box";
 
-const firstAppleWrapper = document.createElement("div");
-firstAppleWrapper.className = 'wrapper'
+      const firstAppleWrapper = document.createElement("div");
+      firstAppleWrapper.className = "wrapper";
 
-const looserfin = document.createElement("div");
-looserfin.className = "looserfin";
+      const looserfin = document.createElement("div");
+      looserfin.className = "looserfin";
 
-data.appleArrray.forEach((item, index) => {
-  if (index === 0) {
-    const appleimg = document.createElement("div");
-    appleimg.className = "firstapple";
-    appleimg.innerHTML = `<img src="${item.img1}" alt="">`;
-    firstAppleWrapper.appendChild(appleimg); 
-  } else {
-    const appletwo = document.createElement("div");
-    appletwo.className = "seconds";
-    appletwo.innerHTML = `
+      data.appleArrray.forEach((item, index) => {
+        if (index === 0) {
+          const appleimg = document.createElement("div");
+          appleimg.className = "firstapple";
+          appleimg.innerHTML = `<img src="${item.img1}" alt="">`;
+          firstAppleWrapper.appendChild(appleimg);
+        } else {
+          const appletwo = document.createElement("div");
+          appletwo.className = "seconds";
+          appletwo.innerHTML = `
       <div class="grey">
         <img src="${item.img}" alt="">
       </div>
@@ -467,15 +464,14 @@ data.appleArrray.forEach((item, index) => {
       </div>
       <div class="prime"></div>
     `;
-    looserfin.appendChild(appletwo);
-  }
-});
+          looserfin.appendChild(appletwo);
+        }
+      });
 
-applebox.appendChild(firstAppleWrapper);
-applebox.appendChild(looserfin);
+      applebox.appendChild(firstAppleWrapper);
+      applebox.appendChild(looserfin);
 
-rightSideMain.appendChild(applebox);
-
+      rightSideMain.appendChild(applebox);
 
       const result = document.querySelector(".result");
       const resultIN = document.createElement("div");
@@ -506,9 +502,9 @@ rightSideMain.appendChild(applebox);
           products(data.mobileGrid);
         } else {
           const filterProduct = data.mobileGrid.filter((product) => {
-            return selectedBrand.includes(product.id.toLowerCase()); 
+            return selectedBrand.includes(product.id.toLowerCase());
           });
-          console.log("Filtered products:", filterProduct); 
+          console.log("Filtered products:", filterProduct);
           products(filterProduct);
         }
       }
@@ -579,10 +575,12 @@ rightSideMain.appendChild(applebox);
 
           rightContent.appendChild(mobilebox);
         });
+        
         addpagination(productItem.length, page, perpage);
       }
       products(data.mobileGrid);
 
+    
       function addpagination(totalItem, currentpage, perpage) {
         const downsearch = document.querySelector(".downsearch");
 
@@ -635,103 +633,103 @@ rightSideMain.appendChild(applebox);
         });
       }
       // ----------------    MediaQuery       -----------------------mobileheader
-const menufunc = document.querySelector('.menuL')
-menufunc.addEventListener('click',function(){
+      const menufunc = document.querySelector(".menuL");
+      menufunc.addEventListener("click", function () {
+        if (
+          dropdownmenu.style.display === "none" ||
+          dropdownmenu.style.display === ""
+        ) {
+          dropdownmenu.style.display = "block";
+          x.style.display = "block";
+        } else {
+          dropdownmenu.style.display = "none";
+          x.style.display = "none";
+        }
+      });
 
-  if(dropdownmenu.style.display === 'none' || dropdownmenu.style.display ===''){
-    dropdownmenu.style.display = 'block'
-    x.style.display = 'block'
-  }else{
-    dropdownmenu.style.display = 'none'
-    x.style.display = 'none'
-  }
+      const dropmenu = document.querySelector(".flexmobile");
 
-})
+      const transparent = document.createElement("div");
+      transparent.className = "transparent";
+      const dropdownmenu = document.createElement("div");
+      dropdownmenu.className = "dropdownmenu";
+      dropdownmenu.style.display = "none";
 
-const dropmenu = document.querySelector('.flexmobile');
+      const x = document.createElement("div");
+      x.className = "ex";
+      x.style.display = "none";
+      transparent.appendChild(x);
 
-const transparent = document.createElement('div')
-transparent.className  = 'transparent'
-const dropdownmenu = document.createElement('div');
-dropdownmenu.className = 'dropdownmenu';
-dropdownmenu.style.display = 'none'
+      x.addEventListener("click", function () {
+        dropdownmenu.style.display = "none";
+        x.style.display = "none";
+      });
 
-const x = document.createElement('div')
-x.className = 'ex'
-x.style.display = 'none'
-transparent.appendChild(x)
-
-x.addEventListener('click', function () {
-  dropdownmenu.style.display = 'none'; 
-  x.style.display = 'none'; 
-});
-
-
-const dropfirst = document.createElement('div');
-dropfirst.className = 'dropfirst';
-dropfirst.innerHTML = `<div class= "text">${data.sign}</div>
+      const dropfirst = document.createElement("div");
+      dropfirst.className = "dropfirst";
+      dropfirst.innerHTML = `<div class= "text">${data.sign}</div>
 <div class="txtIMg"></div>`;
-dropdownmenu.appendChild(dropfirst);
+      dropdownmenu.appendChild(dropfirst);
 
-const seconddrop = document.createElement('div');
-seconddrop.className = 'secondDrop';
-seconddrop.innerHTML = `<div class="twenty">${data.browse}</div><div class="eight">${data.am}</div>`;
-dropdownmenu.appendChild(seconddrop);
+      const seconddrop = document.createElement("div");
+      seconddrop.className = "secondDrop";
+      seconddrop.innerHTML = `<div class="twenty">${data.browse}</div><div class="eight">${data.am}</div>`;
+      dropdownmenu.appendChild(seconddrop);
 
-const third = document.createElement('div');
-third.className = 'thirdmenu';
-third.innerHTML = `<div class="leftmenu">${data.home}</div><div class="rightmenu"><span></span></div>`;
-dropdownmenu.appendChild(third);
+      const third = document.createElement("div");
+      third.className = "thirdmenu";
+      third.innerHTML = `<div class="leftmenu">${data.home}</div><div class="rightmenu"><span></span></div>`;
+      dropdownmenu.appendChild(third);
 
-const menuafter = document.createElement('div');
-menuafter.className = 'menuafter';
+      const menuafter = document.createElement("div");
+      menuafter.className = "menuafter";
 
-data.trend.forEach(item => {
-  const trending = document.createElement('div');
-  trending.className = 'trending';
+      data.trend.forEach((item) => {
+        const trending = document.createElement("div");
+        trending.className = "trending";
 
-  const trandingTitle = document.createElement('h3');
-  trandingTitle.className = 'trend-title';
-  trandingTitle.textContent = item.tr;
-  trending.appendChild(trandingTitle);
+        const trandingTitle = document.createElement("h3");
+        trandingTitle.className = "trend-title";
+        trandingTitle.textContent = item.tr;
+        trending.appendChild(trandingTitle);
 
-  const trandingList = document.createElement('ul');
-  trandingList.className = 'trend-list';
+        const trandingList = document.createElement("ul");
+        trandingList.className = "trend-list";
 
-  item.pro.forEach(proItem => {
-    const listItem = document.createElement('li');
-    listItem.className = 'trend-item';
-    listItem.textContent = proItem;
-    trandingList.appendChild(listItem);
-  });
+        item.pro.forEach((proItem) => {
+          const listItem = document.createElement("li");
+          listItem.className = "trend-item";
+          listItem.textContent = proItem;
+          trandingList.appendChild(listItem);
+        });
 
-  trending.appendChild(trandingList);
-  menuafter.appendChild(trending);
-});
+        trending.appendChild(trandingList);
+        menuafter.appendChild(trending);
+      });
 
-dropdownmenu.appendChild(menuafter);
-transparent.appendChild(dropdownmenu)
-dropmenu.appendChild(transparent);
+      dropdownmenu.appendChild(menuafter);
+      transparent.appendChild(dropdownmenu);
+      dropmenu.appendChild(transparent);
 
-// filter mobile
-const inputmob = document.querySelector('.inputmob')
-inputmob.addEventListener('input',function(){
+      // filter mobile
+      const inputmob = document.querySelector(".inputmob");
+      inputmob.addEventListener("input", function () {
+        const inputhere = this.value.toLowerCase();
+        const searchhere = data.mobileGrid.filter((item) =>
+          item.mobilename.toLowerCase().includes(inputhere)
+        );
+        products(searchhere);
+      });
 
- const inputhere = this.value.toLowerCase()
- const searchhere = data.mobileGrid.filter((item)=>item.mobilename.toLowerCase().includes(inputhere)
-)
-products(searchhere)
+      let itemCount = 0;
+      const cartNumber = document.querySelector(".zero");
 
-})
+      const yellowcol = rightmobinside.querySelector(".yellowcol");
+      yellowcol.addEventListener("click", function () {
+        itemCount++;
+        cartNumber.textContent = itemCount;
+      });
 
-let itemCount = 0
-const cartNumber = document.querySelector('.zero')
-
-const yellowcol = rightmobinside.querySelector(".yellowcol")
-yellowcol.addEventListener('click',function(){
-  itemCount++
-  cartNumber.textContent = itemCount
-})
 
 
 

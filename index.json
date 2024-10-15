@@ -1,1047 +1,1117 @@
 {
+  "header": {
+    "in": ".in",
+    "search": "",
 
-"header":{
-"in":".in",
-"search":"",
+    "deliver": {
+      "deliveryI": "Delivery to Delhi 110001",
+      "update": "Update location"
+    },
 
-"deliver":{
-"deliveryI":"Delivery to Delhi 110001",
-"update":"Update location"
-},
+    "all": [
+      "All",
+      "All Categories",
+      "Skill",
+      "Devices",
+      "Fashion",
+      "Fresh Meat",
+      "Amazon Pharmacy",
+      "Games",
+      "MOtobike",
+      "kitchen",
+      "Outdoor",
+      "Jewellery",
+      "Bags",
+      "Instrument",
+      "Music",
+      "Musical Instrumental",
+      "Office Product"
+    ],
 
-"all":[
-"All","All Categories","Skill","Devices","Fashion","Fresh Meat","Amazon Pharmacy","Games","MOtobike","kitchen","Outdoor","Jewellery","Bags","Instrument","Music","Musical Instrumental","Office Product"
-],
-
-"india":"icons/india.svg",
-"spn":"EN",
-"hello":"Hello,sign in",
-"account":"Account & Lists",
-"return":"Returns",
-"order":"& Orders",
-"cart":"icons/blckcart.svg",
-"carttxt":"Cart"
-
-},
-"nav":{
-"all":"All",
-"menuar":[
-"Fresh","Max player","Sell","Best Seller","Today's deals","Mobiles","Electronics","Prime","Home & kitchen","Customer Service","Fashion","New Release","Amazon Pay"
-],
-
-"rightcont":"https://m.media-amazon.com/images/G/31/Events/img24/Jupiter24/HERO1/J24_SWM_Shopnow._CB562557233_.jpg",
-"sort":[
-    "Featured","price:Low to High","price:HIgh to Low","Avg:Customer Review","Newest Arrivals","Best Sellers"
-],
-
-"by":"Sort by: Featured"
-},
-
-"deals":{
-"deal":[
-    "Deals & Discounts","All Discounts","Todays Deals"
-],
-
-"Ram":{
-"mob":"Mobile Phone Installed RAM Size",
-"ramp":[
-    "up to 1.9GB","2 to 3.9 GB","4 to 5.9 GB","6 to 7.9 GB","8 to 9.9 GB","10 GB & Above"
-]
-},
-"memory":{
-"mob":"Cellular Phone Memory Storage Capacity",
-"ramp":[
-    "Up to 3.9 GB","4 GB","8 GB","16 GB","32 GB","64 GB","128 GB","256 GB","512 GB & above"
-]
-}
-},
-
-"price":"price",
-"span":"₹140 - ₹140,600+",
-"go":"Go",
-"customer":"Customer Review",
-"and":"& Up",
-"color":"Colour",
-
-"gridbstar":[
-    {
-"brand":"brand",
-"brandarray":[
-"Apple",
-    "Samsung",
-    "OnePlus",
-    "Xiaomi",
-    "Google",
-    "Oppo",
-    "Vivo",
-    "Sony",
-    "Nokia",
-    "Huawei",
-    "Motorola",
-    "LG",
-    "Realme",
-    "HTC",
-    "Asus"
-
-]
- }   
-
-],
-"gridsecond":[
-
-    {
-        "brand":"Cellular Technology",
-        "brandarray":[
-            "2G",
-            "3G",
-            "4G",
-            "5G"
-        ]
-    }
-
-],
-
-
-"gridcover":[
-
-{
-"dis":"Discount",
-"disarray":[
-    "10% Off or more","25% Off or more","35% Off or more","50% Off or more","60% Off or more","70% Off or more"
-]
-},
-{
-"dis":"Item Condition",
-"disarray":[
-    "NEw","Renewed"
-]
-},
-{
-"dis":"Battery Capacity",
-"disarray":[
-   "Up to 2,999 mAh","3,000 to 3,999 mAh","4,000 to 4,999 mAh","5,000 to 5,999 mAh","6,000 mAh & Above"
-]
-},
-{
-"dis":"Processor Speed",
-"disarray":[
- "Less Than 0.99 GHz","1-1.49GHz","1.5-1.99GHz","2 - 2.4 GHz","2.5 GHz & Above"
-]
-},
-{
-"dis":"Display Type",
-"disarray":[
-     "AMOLED","LCD","OLED"
-]
-},
-{
-"dis":"Screen Size",
-"disarray":[
-     "Up to 3.9 in","4 to 4.4 in","5 to 5.4 in","5.5 in & above"
-]
-},
-{
-"dis":"Operation System",
-"disarray":[
-     "Android 10.0","Android 11.0","Android 12.0","Android 13.0","Android 9.0","iOS 12","iOS 16"
-]
-},
-{
-"dis":"Mobile Phone Primary Camera Resolution",
-"disarray":[
-     "Up to 3.9 MP","4 - 7.9 MP","8 - 11.9 MP","12 - 15.9 MP","16 - 19.9 MP","20 - 23.9 MP","32 MP & Above"
-]
-},
-{
-"dis":"Category",
-"disarray":[
-     "Smartphones & Basic Mobiles","SmartPhones","Basic Mobiles"
-]
-}
-
-],
-"gridcolorafter":[
-
-{
-"dis":"Refresh Rate",
-"disarray":[
-     "Up to 88 Hz","89 to 104 Hz","105 to 120 Hz","121 Hz & above"
-]
-},
-{
-"dis":"Font Photo Sensor",
-"disarray":[
-     "Up to 6.9 MP","7.0 to 9.9 MP","10.0 to 12.9 MP","13.0 MP & above"
-]
-},
-{
-"dis":"SIM Card Slot Count",
-"disarray":[
-     "Single SIM","Dual SIM"
-]
-},
-{
-"dis":"Device Features",
-"disarray":[
-     "Dual SIM","E-Mail","GPS","Hotspot","Internet","MP3","Music Player"
-]
-},
-{
-"dis":"New Arrival",
-"disarray":[
-     "Last 30 days","Last 90 days"
-]
-},
-{
-"dis":"Mobile Phone Blometric Security Feature",
-"disarray":[
-     "Face Recognition","Fingerprint Recognition"
-]
-},
-{
-"dis":"Availability",
-"disarray":[
-    "Include Out of Stock"
-]
-}
-
-
-],
-
-"date":"https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/fe9db514-7c60-4e9d-be00-4b9d15772028._CR0,0,400,400_AC_SX130_SY60_QL70_.png",
-"appletxt":"iPhone 16. Built for Apple Intelligence.",
-"shop":"Shop Apple India&nbsp;",
-
-"appleArrray":[
-
-{
-    "img1":"icons/apple.jpg",
-    "iphone1":"",
-"two":""
-},
-{
-"img":"icons/whiteapple.jpg",
-"iphone1":"Apple Iphone 16 (128 GB-White)",
-"two":"29"
-},
-{
-"img":"icons/bluapple.jpg",
-"iphone1":"Apple iPhone 16 Plus (256 GB) - Ultramarine",
-"two":"28"
-},
-{
-"img":"https://m.media-amazon.com/images/I/81weRj535kL._AC_SR292,236_QL70_.jpg",
-"iphone1":"Apple iPhone 13 Pro (256 GB) - Ultramarine",
-"two":"28"
-}
-
-],
-"result":"Results",
-"checks":"Check each products for other buying options",
-"sponsor":"Sponsored",
-
-
-"mobileGrid":[
-{
-"id":"Apple",
-"mobileIMg":"https://m.media-amazon.com/images/I/61VuVU94RnL._AC_UY218_.jpg",
-"mobilename":"Apple iPhone 13 (128GB) - Midnight",
-"sponsor":"Sponsored",
-"buy":"29,921",
-"span":"5k+ bought in the past month",
-"red":"Greate Indian Festival",
-"rupees":"₹42,999",
-"mrp":"M.R.P",
-"cutprice":"₹59,600",
-"off":"(28% off)",
-"flat":"Flat INR 500 Off on SBICards",
-"status":"Free Delivery",
-"add":"Add to Cart",
-"plus":"+5 color/patterns"
-
-},
-{
-"id":"Apple",
-"mobileIMg":"https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
-"sponsor":"Sponsored",
-"mobilename":"Apple iPhone 15 (128 GB) - Black",
-"buy":"29,921",
-"span":"5k+ bought in the past month",
-"red":"Greate Indian Festival",
-"rupees":"₹42,999",
-"mrp":"M.R.P",
-"cutprice":"₹59,600",
-"off":"(28% off)",
-"flat":"Flat INR 500 Off on SBICards",
-"status":"Free Delivery",
-"add":"Add to Cart",
-"plus":"+5 color/patterns"
-
-},
-{
-"id":"samsung",
-"mobileIMg":"https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY218_.jpg",
-"sponsor":"Sponsored",
-"mobilename":"Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage)",
-"buy":"29,921",
-"span":"5k+ bought in the past month",
-"red":"Greate Indian Festival",
-"rupees":"6,499",
-"mrp":"M.R.P",
-"cutprice":"₹9,999",
-"off":"(28% off)",
-"flat":"Flat INR 500 Off on SBICards",
-"status":"Free Delivery",
-"add":"Add to Cart",
-"plus":"+5 color/patterns"
-
-},{
-  "id": "realme",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71r0Ysx+oVL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "realme NARZO N61 (Voyage Blue,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",
-  "buy": "448",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹8,4988",
-  "mrp": "M.R.P",
-  "cutprice": "₹ 10,999",
-  "off": "(23% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "redmi",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71scmEdSC2L._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Redmi 13C (Starfrost White, 6GB RAM, 128GB Storage) | Powered by 4G MediaTek Helio G85 | 90Hz Display | 50MP AI Triple Camera",
-  "buy": "8,252",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹8,499",
-  "mrp": "M.R.P",
-  "cutprice": "₹13,999",
-  "off": "(39% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "samsung",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81LJaRu0cZL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Redmi 13 5G, Hawaiian Blue, 6GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment",
-  "buy": "54",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹10,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹15,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "realme",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71r41+TT2UL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "realme NARZO N61 (Marble Black,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",
-  "buy": "448",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹8,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹10,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "poco",
-  "mobileIMg": "https://m.media-amazon.com/images/I/51PQfSwIqyL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "POCO C65 (Matte Black 4GB RAM 128GB Storage)",
-  "buy": "2,625",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹6,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹10,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-}
-,{
-  "id": "poco",
-  "mobileIMg": "https://m.media-amazon.com/images/I/51Zjp5fq1EL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "POCO C65 (Pastel Blue 4GB RAM 128GB Storage)",
-  "buy": "2,645",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹6,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹10,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "redmi",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81Z1scL6HvL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Redmi 13C 5G (Startrail Silver, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",
-  "buy": "8,555",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹8,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹13,899",
-  "off": "(36% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-}
-,{
-  "id": "Apple",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71zFRCcMS2L._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Apple iPhone 15 Plus (128 GB) - Black",
-  "buy": "1,132",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹75,900",
-  "mrp": "M.R.P",
-  "cutprice": "₹89,600",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "samsung",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7 HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger",
-  "buy": "132",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹6,499",
-  "mrp": "M.R.P",
-  "cutprice": "₹9,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-}
-,{
-  "id": "poco",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71b0T9mkV3L._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "POCO M6 5G (Galactic Black,6GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G Processor | 5000 mAh Battery + 18W Fast Charging | 50 MP AI Dual-Camera System & Side Fingerprint Sensor",
-  "buy": "1,899",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹9,499",
-  "mrp": "M.R.P",
-  "cutprice": "₹13,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-}
-,{
-  "id": "realme",
-  "mobileIMg": "https://m.media-amazon.com/images/I/717sEAdy02L._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "realme NARZO N65 5G (Deep Green 4GB RAM, 128GB Storage) India's 1st D6300 5G Chipset | Ultra Slim 190g Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",
-  "buy": "1,402",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹11,499",
-  "mrp": "M.R.P",
-  "cutprice": "₹13,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-}
-,{
-  "id": "realme",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71r0Ysx+oVL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "realme NARZO N61 (Voyage Blue,4GB RAM+64GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",
-  "buy": "489",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹7,487",
-  "mrp": "M.R.P",
-  "cutprice": "₹8,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-}
-,{
-  "id": "poco",
-  "mobileIMg": "https://m.media-amazon.com/images/I/712tqhtIw1L._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "POCO C61 Ethereal Blue 4GB RAM 64GB ROM",
-  "buy": "35",
-  "span": "3k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹6,299",
-  "mrp": "M.R.P",
-  "cutprice": "₹8,999",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "techno",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61DT2FIUlRL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "TECNO POP 9 5G (Aurora Cloud, 4GB+128GB) | Segment's 1st 48MP Sony AI Camera | Segment's 1st 5G with NFC | D6300 5G Processor | 4+ Year Lag Free Fluency | 5000 mAh Battery | IR Remote | Dolby Atmos",
-  "buy": "2",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹9,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹5000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "Oneplus",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61g1pqSjAhL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Oneplus Nord CE4 (Dark Chrome, 8GB RAM, 256GB Storage)",
-  "buy": "5,254",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹25,499",
-  "mrp": "M.R.P",
-  "cutprice": "₹26,900",
-  "off": "(6% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "iQOO",
-  "mobileIMg": "https://m.media-amazon.com/images/I/619VJYWIbXL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box | Rs 1000 Off on All Bank Cards",
-  "buy": "1,300",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "11,499",
-  "mrp": "M.R.P",
-  "cutprice": "₹15,000",
-  "off": "(26% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "samsung",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Samsung Galaxy S23 Ultra 5G AI Smartphone (Phantom Black, 12GB, 256GB Storage)",
-  "buy": "1,890",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹75,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹1,45,000",
-  "off": "(48% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "Lava",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61us9SP9fuL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Lava O3 (Glossy Black, 4 GB RAM, 64 GB Storage) | Ultra Fast Octa Core Processor | 6.75 HD+ Display | 13MP AI Dual Rear Camera | 5000 mAh Battery",
-  "buy": "",
-  "span": "1k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹9,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹5000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "Lava",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61sEoRmsLlL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Lava Blaze Curve 5G (Glass Iron, 8GB LPDDR5 RAM, UFS 3.1 128GB Storage) | 120Hz Curved Amoled Display |2.6GHz Dimensity 7050 6nm Processor | 64 MP Primary Sony Sensor",
-  "buy": "512",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹14,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹20,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "redmi",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81nMsYgIHdL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Redmi 13C 5G (Starlight Black, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",
-  "buy": "497",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹8,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹13,000",
-  "off": "(38% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "Oneplus",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61LB+d0vheL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 8GB RAM, 128GB Storage)",
-  "buy": "51,125",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹16,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹19,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "techno",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61luwQe5iiL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "TECNO POP 8 (Alpenglow Gold, 4GB+64GB)| 90Hz Punch Hole Display with Dynamic Port & Dual Speakers with DTS| 5000mAh Battery |10W Type-C| Side Fingerprint Sensor| Octa-Core Processor",
-  "buy": "2,118",
-  "span": "2k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹6,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹7,800",
-  "off": "(18% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "poco",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71GKbs-kJ1L._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "POCO M6 5G (Orion Blue, 6GB RAM, 128GB Storage)",
-  "buy": "1,889",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹9,799",
-  "mrp": "M.R.P",
-  "cutprice": "₹13,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "iQOO",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "iQOO Z9x 5G (Tornado Green, 8GB RAM, 128GB Storage) | Snapdragon 6 Gen 1 with 560k+ AnTuTu Score | 6000mAh Battery with 7.99mm Slim Design | 44W FlashCharge",
-  "buy": "2",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹15,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹19,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "Apple",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Apple iPhone 13 (128GB) - Pink",
-  "buy": "30,100",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹43,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹59,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "Oneplus",
-  "mobileIMg": "https://m.media-amazon.com/images/I/5155PFA2N+L._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "OnePlus Nord CE4 Lite 5G (Mega Blue, 8GB RAM, 256GB Storage)",
-  "buy": "2,345",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹9,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹5000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "Lava",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61aDwL2gmvL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Lava Yuva 3 (Eclipse Black,4+4*GB RAM,UFS 2.2 128GB Storage)|Premium Glossy Back|Octacore Processor|18W Fast Charging|90Hz Punch Hole Display|13MP AI Triple Camera|Side Fingerprint Sensor",
-  "buy": "186",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹9,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹5000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-}
-,{
-  "id": "Motorola",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81nbqAPGLKL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Motorola G64 5G (Ice Lilac, 12GB RAM, 256GB Storage) | Expandable Upto 2TB | Upto 24GB RAM with RAM Boost | 50MP (OIS) + 8MP | 16MP Front Camera | MediaTek Dimensity 7025 Processor | 6000 mAh Battery",
-  "buy": "92",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹17,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹19,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "vivo",
-  "mobileIMg": "https://m.media-amazon.com/images/I/61slrN5n-FL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "vivo Y18i (Space Black, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers |Without Charger",
-  "buy": "24",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹7,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹11,000",
-  "off": "(33% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "redmi",
-  "mobileIMg": "https://m.media-amazon.com/images/I/819sWoSDFRL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Redmi Note 13 Pro+ (Fusion Purple, 8GB RAM, 256GB Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",
-  "buy": "740",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹27,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹33,000",
-  "off": "(18% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "realme",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71+ABxd33hL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "realme NARZO 70 Turbo 5G (Turbo Yellow,12GB RAM,256GB Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspired Design",
-  "buy": "645",
-  "span": "2k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹20,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹23,000",
-  "off": "(18% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "Motorola",
-  "mobileIMg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/l/c/-original-imah3xk892aj9gck.jpeg?q=70",
-  "sponsor": "Sponsored",
-  "mobilename": "Motorola G45 5G (Brilliant Green, 8GB RAM, 128GB Storage)",
-  "buy": "12",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹14,499",
-  "mrp": "M.R.P",
-  "cutprice": "₹14,900",
-  "off": "(2% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "",
-  "mobileIMg": "https://m.media-amazon.com/images/I/51KJE22BKrL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "OnePlus Nord CE4 Lite 5G (Ultra Orange, 8GB RAM, 128GB Storage)",
-  "buy": "2,346",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹19,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹20,000",
-  "off": "(5% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "Oneplus",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71o8VehMHXL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "OnePlus 12 (Silky Black, 16GB RAM, 512GB Storage)",
-  "buy": "502",
-  "span": "1k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹66,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹69,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "xiomi",
-  "mobileIMg": "https://m.media-amazon.com/images/I/714PYaZXuiL._AC_SX296_SY426_FMwebp_QL65_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Xiaomi 14 (Black, 12GB RAM, 512GB Storage) | 50MP Leica Professional Optics | 120 Hz 1.5K LTPO AMOLED | SD 8 Gen 3 Hyper OS",
-  "buy": "15,999",
-  "span": "2k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹20,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹5000",
-  "off": "(24% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "xiomi",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71+mdLzMfQS._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Xiaomi 11 Lite (Vinyl Black, 8GB RAM, 128GB Storage)",
-  "buy": "231",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹12,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹25,000",
-  "off": "(50% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "xiomi",
-  "mobileIMg": "https://m.media-amazon.com/images/I/71x5XVC9UlL._AC_UY218_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Xiaomi 14 CIVI (Shadow Black, 8GB RAM, 256GB Storage)",
-  "buy": "2",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹9,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹5000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},
-{
-  "id": "vivo",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81m1SddJ6-L._AC_SX296_SY426_FMwebp_QL65_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Vivo T3x 5G (Crimson Bliss, 128 GB) (6 GB RAM)",
-  "buy": "2",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹9,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹5000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "vivo",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81eJJYFsztL._AC_SX296_SY426_FMwebp_QL65_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Lava Blaze Curve 5G (Glass Iron, 8GB LPDDR5 RAM, UFS 3.1 128GB Storage) | 120Hz Curved Amoled Display |2.6GHz Dimensity 7050 6nm Processor | 64 MP Primary Sony Sensor",
-  "buy": "2",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹34,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹41,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "oppo",
-  "mobileIMg": "https://m.media-amazon.com/images/I/51oDDYRMifL._AC_SX296_SY426_FMwebp_QL65_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "Oppo K12x 5G with 45W SUPERVOOC Charger in-The-Box (Breeze Blue, 128 GB) (6 GB RAM)",
-  "buy": "2",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹11,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹13,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "oppo",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81ZFLjC0JJL._AC_SX296_SY426_FMwebp_QL65_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "OPPO A3 Pro 5G (Moonlight Purple, 8GB RAM, 128GB Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",
-  "buy": "2",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹19,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹20,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-},{
-  "id": "",
-  "mobileIMg": "https://m.media-amazon.com/images/I/81CFCXH1tVL._AC_SX296_SY426_FMwebp_QL65_.jpg",
-  "sponsor": "Sponsored",
-  "mobilename": "OPPO F27 Pro+ 5G (Midnight Navy, 8GB RAM, 256GB Storage) | 6.7 FHD+ AMOLED Toughest 3D Curved Display|64MP AI Featured Camera|IP69 | 67W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",
-  "buy": "2",
-  "span": "5k+ bought in the past month",
-  "red": "Greate Indian Festival",
-  "rupees": "₹29,999",
-  "mrp": "M.R.P",
-  "cutprice": "₹34,000",
-  "off": "(28% off)",
-  "flat": "Flat INR 500 Off on SBICards",
-  "status": "Free Delivery",
-  "add": "Add to Cart",
-  "plus": ""
-}
-],
-"left":"icons/left.svg",
-"right":"icons/right.svg",
-
-"grid":[
-{"sio":"Xiaomi"},
-{"sio":"Exchange"},{"sio":"Google"},{"sio":"Projector"},{"sio":"Gadgets"},{"sio":"Controller"},{"sio":"Watch"},{"sio":"Fan"},{"sio":"Cleaner"},{"sio":"Music"},{"sio":"Sticker"}
-
-],
-
-"sign":"Sign in",
-"browse":"Browse",
-"am":"Amazon",
-"home":"Amozon Home",
-
-"trend": [
-  { 
-  "tr": "Trending" ,
-    "pro": [
-      "Best Seller",
-      "New Release",
-      "Movers and Shakers"
-    ] 
+    "india": "icons/india.svg",
+    "spn": "EN",
+    "hello": "Hello,sign in",
+    "account": "Account & Lists",
+    "return": "Returns",
+    "order": "& Orders",
+    "cart": "icons/blckcart.svg",
+    "carttxt": "Cart"
   },
-  {
-     "tr": "Top Categories for you",
-  "pro":[
-    "Mobile",
-    "Computer",
-    "Books",
-    "Amazon Fashion",
-    "See All Categories"
+  "nav": {
+    "all": "All",
+    "menuar": [
+      "Fresh",
+      "Max player",
+      "Sell",
+      "Best Seller",
+      "Today's deals",
+      "Mobiles",
+      "Electronics",
+      "Prime",
+      "Home & kitchen",
+      "Customer Service",
+      "Fashion",
+      "New Release",
+      "Amazon Pay"
+    ],
+
+    "rightcont": "https://m.media-amazon.com/images/G/31/Events/img24/Jupiter24/HERO1/J24_SWM_Shopnow._CB562557233_.jpg",
+    "sort": [
+      "Featured",
+      "price:Low to High",
+      "price:HIgh to Low",
+      "Avg:Customer Review",
+      "Newest Arrivals",
+      "Best Sellers"
+    ],
+
+    "by": "Sort by: Featured"
+  },
+
+  "deals": {
+    "deal": ["Deals & Discounts", "All Discounts", "Todays Deals"],
+
+    "Ram": {
+      "mob": "Mobile Phone Installed RAM Size",
+      "ramp": [
+        "up to 1.9GB",
+        "2 to 3.9 GB",
+        "4 to 5.9 GB",
+        "6 to 7.9 GB",
+        "8 to 9.9 GB",
+        "10 GB & Above"
+      ]
+    },
+    "memory": {
+      "mob": "Cellular Phone Memory Storage Capacity",
+      "ramp": [
+        "Up to 3.9 GB",
+        "4 GB",
+        "8 GB",
+        "16 GB",
+        "32 GB",
+        "64 GB",
+        "128 GB",
+        "256 GB",
+        "512 GB & above"
+      ]
+    }
+  },
+
+  "price": "price",
+  "span": "₹140 - ₹140,600+",
+  "go": "Go",
+  "customer": "Customer Review",
+  "and": "& Up",
+  "color": "Colour",
+
+  "gridbstar": [
+    {
+      "brand": "brand",
+      "brandarray": [
+        "Apple",
+        "Samsung",
+        "OnePlus",
+        "Xiaomi",
+        "Google",
+        "Oppo",
+        "Vivo",
+        "Sony",
+        "Nokia",
+        "Huawei",
+        "Motorola",
+        "LG",
+        "Realme",
+        "HTC",
+        "Asus"
+      ]
+    }
+  ],
+  "gridsecond": [
+    {
+      "brand": "Cellular Technology",
+      "brandarray": ["2G", "3G", "4G", "5G"]
+    }
+  ],
+
+  "gridcover": [
+    {
+      "dis": "Discount",
+      "disarray": [
+        "10% Off or more",
+        "25% Off or more",
+        "35% Off or more",
+        "50% Off or more",
+        "60% Off or more",
+        "70% Off or more"
+      ]
+    },
+    {
+      "dis": "Item Condition",
+      "disarray": ["NEw", "Renewed"]
+    },
+    {
+      "dis": "Battery Capacity",
+      "disarray": [
+        "Up to 2,999 mAh",
+        "3,000 to 3,999 mAh",
+        "4,000 to 4,999 mAh",
+        "5,000 to 5,999 mAh",
+        "6,000 mAh & Above"
+      ]
+    },
+    {
+      "dis": "Processor Speed",
+      "disarray": [
+        "Less Than 0.99 GHz",
+        "1-1.49GHz",
+        "1.5-1.99GHz",
+        "2 - 2.4 GHz",
+        "2.5 GHz & Above"
+      ]
+    },
+    {
+      "dis": "Display Type",
+      "disarray": ["AMOLED", "LCD", "OLED"]
+    },
+    {
+      "dis": "Screen Size",
+      "disarray": [
+        "Up to 3.9 in",
+        "4 to 4.4 in",
+        "5 to 5.4 in",
+        "5.5 in & above"
+      ]
+    },
+    {
+      "dis": "Operation System",
+      "disarray": [
+        "Android 10.0",
+        "Android 11.0",
+        "Android 12.0",
+        "Android 13.0",
+        "Android 9.0",
+        "iOS 12",
+        "iOS 16"
+      ]
+    },
+    {
+      "dis": "Mobile Phone Primary Camera Resolution",
+      "disarray": [
+        "Up to 3.9 MP",
+        "4 - 7.9 MP",
+        "8 - 11.9 MP",
+        "12 - 15.9 MP",
+        "16 - 19.9 MP",
+        "20 - 23.9 MP",
+        "32 MP & Above"
+      ]
+    },
+    {
+      "dis": "Category",
+      "disarray": [
+        "Smartphones & Basic Mobiles",
+        "SmartPhones",
+        "Basic Mobiles"
+      ]
+    }
+  ],
+  "gridcolorafter": [
+    {
+      "dis": "Refresh Rate",
+      "disarray": [
+        "Up to 88 Hz",
+        "89 to 104 Hz",
+        "105 to 120 Hz",
+        "121 Hz & above"
+      ]
+    },
+    {
+      "dis": "Font Photo Sensor",
+      "disarray": [
+        "Up to 6.9 MP",
+        "7.0 to 9.9 MP",
+        "10.0 to 12.9 MP",
+        "13.0 MP & above"
+      ]
+    },
+    {
+      "dis": "SIM Card Slot Count",
+      "disarray": ["Single SIM", "Dual SIM"]
+    },
+    {
+      "dis": "Device Features",
+      "disarray": [
+        "Dual SIM",
+        "E-Mail",
+        "GPS",
+        "Hotspot",
+        "Internet",
+        "MP3",
+        "Music Player"
+      ]
+    },
+    {
+      "dis": "New Arrival",
+      "disarray": ["Last 30 days", "Last 90 days"]
+    },
+    {
+      "dis": "Mobile Phone Blometric Security Feature",
+      "disarray": ["Face Recognition", "Fingerprint Recognition"]
+    },
+    {
+      "dis": "Availability",
+      "disarray": ["Include Out of Stock"]
+    }
+  ],
+
+  "date": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/fe9db514-7c60-4e9d-be00-4b9d15772028._CR0,0,400,400_AC_SX130_SY60_QL70_.png",
+  "appletxt": "iPhone 16. Built for Apple Intelligence.",
+  "shop": "Shop Apple India&nbsp;",
+
+  "appleArrray": [
+    {
+      "img1": "icons/apple.jpg",
+      "iphone1": "",
+      "two": ""
+    },
+    {
+      "img": "icons/whiteapple.jpg",
+      "iphone1": "Apple Iphone 16 (128 GB-White)",
+      "two": "29"
+    },
+    {
+      "img": "icons/bluapple.jpg",
+      "iphone1": "Apple iPhone 16 Plus (256 GB) - Ultramarine",
+      "two": "28"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81weRj535kL._AC_SR292,236_QL70_.jpg",
+      "iphone1": "Apple iPhone 13 Pro (256 GB) - Ultramarine",
+      "two": "28"
+    }
+  ],
+  "result": "Results",
+  "checks": "Check each products for other buying options",
+  "sponsor": "Sponsored",
+
+  "mobileGrid": [
+    {
+      "id": "Apple",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61VuVU94RnL._AC_UY218_.jpg",
+      "mobilename": "Apple iPhone 13 (128GB) - Midnight",
+      "sponsor": "Sponsored",
+      "buy": "29,921",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹42,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹59,600",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": "+5 color/patterns"
+    },
+    {
+      "id": "Apple",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Apple iPhone 15 (128 GB) - Black",
+      "buy": "29,921",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹42,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹59,600",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": "+5 color/patterns"
+    },
+    {
+      "id": "samsung",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage)",
+      "buy": "29,921",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "6,499",
+      "mrp": "M.R.P",
+      "cutprice": "₹9,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": "+5 color/patterns"
+    },
+    {
+      "id": "realme",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71r0Ysx+oVL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "realme NARZO N61 (Voyage Blue,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",
+      "buy": "448",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹8,4988",
+      "mrp": "M.R.P",
+      "cutprice": "₹ 10,999",
+      "off": "(23% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "redmi",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71scmEdSC2L._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Redmi 13C (Starfrost White, 6GB RAM, 128GB Storage) | Powered by 4G MediaTek Helio G85 | 90Hz Display | 50MP AI Triple Camera",
+      "buy": "8,252",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹8,499",
+      "mrp": "M.R.P",
+      "cutprice": "₹13,999",
+      "off": "(39% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "samsung",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81LJaRu0cZL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Redmi 13 5G, Hawaiian Blue, 6GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment",
+      "buy": "54",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹10,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹15,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "realme",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71r41+TT2UL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "realme NARZO N61 (Marble Black,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",
+      "buy": "448",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹8,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹10,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "poco",
+      "mobileIMg": "https://m.media-amazon.com/images/I/51PQfSwIqyL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "POCO C65 (Matte Black 4GB RAM 128GB Storage)",
+      "buy": "2,625",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹6,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹10,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "poco",
+      "mobileIMg": "https://m.media-amazon.com/images/I/51Zjp5fq1EL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "POCO C65 (Pastel Blue 4GB RAM 128GB Storage)",
+      "buy": "2,645",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹6,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹10,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "redmi",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81Z1scL6HvL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Redmi 13C 5G (Startrail Silver, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",
+      "buy": "8,555",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹8,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹13,899",
+      "off": "(36% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Apple",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71zFRCcMS2L._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Apple iPhone 15 Plus (128 GB) - Black",
+      "buy": "1,132",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹75,900",
+      "mrp": "M.R.P",
+      "cutprice": "₹89,600",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "samsung",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7 HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger",
+      "buy": "132",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹6,499",
+      "mrp": "M.R.P",
+      "cutprice": "₹9,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "poco",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71b0T9mkV3L._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "POCO M6 5G (Galactic Black,6GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G Processor | 5000 mAh Battery + 18W Fast Charging | 50 MP AI Dual-Camera System & Side Fingerprint Sensor",
+      "buy": "1,899",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹9,499",
+      "mrp": "M.R.P",
+      "cutprice": "₹13,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "realme",
+      "mobileIMg": "https://m.media-amazon.com/images/I/717sEAdy02L._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "realme NARZO N65 5G (Deep Green 4GB RAM, 128GB Storage) India's 1st D6300 5G Chipset | Ultra Slim 190g Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",
+      "buy": "1,402",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹11,499",
+      "mrp": "M.R.P",
+      "cutprice": "₹13,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "realme",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71r0Ysx+oVL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "realme NARZO N61 (Voyage Blue,4GB RAM+64GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",
+      "buy": "489",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹7,487",
+      "mrp": "M.R.P",
+      "cutprice": "₹8,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "poco",
+      "mobileIMg": "https://m.media-amazon.com/images/I/712tqhtIw1L._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "POCO C61 Ethereal Blue 4GB RAM 64GB ROM",
+      "buy": "35",
+      "span": "3k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹6,299",
+      "mrp": "M.R.P",
+      "cutprice": "₹8,999",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "techno",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61DT2FIUlRL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "TECNO POP 9 5G (Aurora Cloud, 4GB+128GB) | Segment's 1st 48MP Sony AI Camera | Segment's 1st 5G with NFC | D6300 5G Processor | 4+ Year Lag Free Fluency | 5000 mAh Battery | IR Remote | Dolby Atmos",
+      "buy": "2",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹9,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹5000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Oneplus",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61g1pqSjAhL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Oneplus Nord CE4 (Dark Chrome, 8GB RAM, 256GB Storage)",
+      "buy": "5,254",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹25,499",
+      "mrp": "M.R.P",
+      "cutprice": "₹26,900",
+      "off": "(6% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "iQOO",
+      "mobileIMg": "https://m.media-amazon.com/images/I/619VJYWIbXL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box | Rs 1000 Off on All Bank Cards",
+      "buy": "1,300",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "11,499",
+      "mrp": "M.R.P",
+      "cutprice": "₹15,000",
+      "off": "(26% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "samsung",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Samsung Galaxy S23 Ultra 5G AI Smartphone (Phantom Black, 12GB, 256GB Storage)",
+      "buy": "1,890",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹75,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹1,45,000",
+      "off": "(48% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Lava",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61us9SP9fuL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Lava O3 (Glossy Black, 4 GB RAM, 64 GB Storage) | Ultra Fast Octa Core Processor | 6.75 HD+ Display | 13MP AI Dual Rear Camera | 5000 mAh Battery",
+      "buy": "",
+      "span": "1k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹9,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹5000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Lava",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61sEoRmsLlL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Lava Blaze Curve 5G (Glass Iron, 8GB LPDDR5 RAM, UFS 3.1 128GB Storage) | 120Hz Curved Amoled Display |2.6GHz Dimensity 7050 6nm Processor | 64 MP Primary Sony Sensor",
+      "buy": "512",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹14,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹20,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "redmi",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81nMsYgIHdL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Redmi 13C 5G (Starlight Black, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",
+      "buy": "497",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹8,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹13,000",
+      "off": "(38% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Oneplus",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61LB+d0vheL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 8GB RAM, 128GB Storage)",
+      "buy": "51,125",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹16,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹19,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "techno",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61luwQe5iiL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "TECNO POP 8 (Alpenglow Gold, 4GB+64GB)| 90Hz Punch Hole Display with Dynamic Port & Dual Speakers with DTS| 5000mAh Battery |10W Type-C| Side Fingerprint Sensor| Octa-Core Processor",
+      "buy": "2,118",
+      "span": "2k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹6,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹7,800",
+      "off": "(18% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "poco",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71GKbs-kJ1L._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "POCO M6 5G (Orion Blue, 6GB RAM, 128GB Storage)",
+      "buy": "1,889",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹9,799",
+      "mrp": "M.R.P",
+      "cutprice": "₹13,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "iQOO",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "iQOO Z9x 5G (Tornado Green, 8GB RAM, 128GB Storage) | Snapdragon 6 Gen 1 with 560k+ AnTuTu Score | 6000mAh Battery with 7.99mm Slim Design | 44W FlashCharge",
+      "buy": "2",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹15,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹19,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Apple",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Apple iPhone 13 (128GB) - Pink",
+      "buy": "30,100",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹43,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹59,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Oneplus",
+      "mobileIMg": "https://m.media-amazon.com/images/I/5155PFA2N+L._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "OnePlus Nord CE4 Lite 5G (Mega Blue, 8GB RAM, 256GB Storage)",
+      "buy": "2,345",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹9,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹5000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Lava",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61aDwL2gmvL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Lava Yuva 3 (Eclipse Black,4+4*GB RAM,UFS 2.2 128GB Storage)|Premium Glossy Back|Octacore Processor|18W Fast Charging|90Hz Punch Hole Display|13MP AI Triple Camera|Side Fingerprint Sensor",
+      "buy": "186",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹9,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹5000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Motorola",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81nbqAPGLKL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Motorola G64 5G (Ice Lilac, 12GB RAM, 256GB Storage) | Expandable Upto 2TB | Upto 24GB RAM with RAM Boost | 50MP (OIS) + 8MP | 16MP Front Camera | MediaTek Dimensity 7025 Processor | 6000 mAh Battery",
+      "buy": "92",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹17,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹19,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "vivo",
+      "mobileIMg": "https://m.media-amazon.com/images/I/61slrN5n-FL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "vivo Y18i (Space Black, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers |Without Charger",
+      "buy": "24",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹7,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹11,000",
+      "off": "(33% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "redmi",
+      "mobileIMg": "https://m.media-amazon.com/images/I/819sWoSDFRL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Redmi Note 13 Pro+ (Fusion Purple, 8GB RAM, 256GB Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",
+      "buy": "740",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹27,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹33,000",
+      "off": "(18% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "realme",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71+ABxd33hL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "realme NARZO 70 Turbo 5G (Turbo Yellow,12GB RAM,256GB Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspired Design",
+      "buy": "645",
+      "span": "2k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹20,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹23,000",
+      "off": "(18% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Motorola",
+      "mobileIMg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/l/c/-original-imah3xk892aj9gck.jpeg?q=70",
+      "sponsor": "Sponsored",
+      "mobilename": "Motorola G45 5G (Brilliant Green, 8GB RAM, 128GB Storage)",
+      "buy": "12",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹14,499",
+      "mrp": "M.R.P",
+      "cutprice": "₹14,900",
+      "off": "(2% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "",
+      "mobileIMg": "https://m.media-amazon.com/images/I/51KJE22BKrL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "OnePlus Nord CE4 Lite 5G (Ultra Orange, 8GB RAM, 128GB Storage)",
+      "buy": "2,346",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹19,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹20,000",
+      "off": "(5% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "Oneplus",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71o8VehMHXL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "OnePlus 12 (Silky Black, 16GB RAM, 512GB Storage)",
+      "buy": "502",
+      "span": "1k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹66,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹69,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "xiomi",
+      "mobileIMg": "https://m.media-amazon.com/images/I/714PYaZXuiL._AC_SX296_SY426_FMwebp_QL65_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Xiaomi 14 (Black, 12GB RAM, 512GB Storage) | 50MP Leica Professional Optics | 120 Hz 1.5K LTPO AMOLED | SD 8 Gen 3 Hyper OS",
+      "buy": "15,999",
+      "span": "2k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹20,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹5000",
+      "off": "(24% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "xiomi",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71+mdLzMfQS._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Xiaomi 11 Lite (Vinyl Black, 8GB RAM, 128GB Storage)",
+      "buy": "231",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹12,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹25,000",
+      "off": "(50% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "xiomi",
+      "mobileIMg": "https://m.media-amazon.com/images/I/71x5XVC9UlL._AC_UY218_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Xiaomi 14 CIVI (Shadow Black, 8GB RAM, 256GB Storage)",
+      "buy": "2",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹9,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹5000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "vivo",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81m1SddJ6-L._AC_SX296_SY426_FMwebp_QL65_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Vivo T3x 5G (Crimson Bliss, 128 GB) (6 GB RAM)",
+      "buy": "2",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹9,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹5000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "vivo",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81eJJYFsztL._AC_SX296_SY426_FMwebp_QL65_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Lava Blaze Curve 5G (Glass Iron, 8GB LPDDR5 RAM, UFS 3.1 128GB Storage) | 120Hz Curved Amoled Display |2.6GHz Dimensity 7050 6nm Processor | 64 MP Primary Sony Sensor",
+      "buy": "2",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹34,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹41,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "oppo",
+      "mobileIMg": "https://m.media-amazon.com/images/I/51oDDYRMifL._AC_SX296_SY426_FMwebp_QL65_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "Oppo K12x 5G with 45W SUPERVOOC Charger in-The-Box (Breeze Blue, 128 GB) (6 GB RAM)",
+      "buy": "2",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹11,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹13,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "oppo",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81ZFLjC0JJL._AC_SX296_SY426_FMwebp_QL65_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "OPPO A3 Pro 5G (Moonlight Purple, 8GB RAM, 128GB Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",
+      "buy": "2",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹19,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹20,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    },
+    {
+      "id": "",
+      "mobileIMg": "https://m.media-amazon.com/images/I/81CFCXH1tVL._AC_SX296_SY426_FMwebp_QL65_.jpg",
+      "sponsor": "Sponsored",
+      "mobilename": "OPPO F27 Pro+ 5G (Midnight Navy, 8GB RAM, 256GB Storage) | 6.7 FHD+ AMOLED Toughest 3D Curved Display|64MP AI Featured Camera|IP69 | 67W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",
+      "buy": "2",
+      "span": "5k+ bought in the past month",
+      "red": "Greate Indian Festival",
+      "rupees": "₹29,999",
+      "mrp": "M.R.P",
+      "cutprice": "₹34,000",
+      "off": "(28% off)",
+      "flat": "Flat INR 500 Off on SBICards",
+      "status": "Free Delivery",
+      "add": "Add to Cart",
+      "plus": ""
+    }
+  ],
+  "left": "icons/left.svg",
+  "right": "icons/right.svg",
+
+  "grid": [
+    { "sio": "Xiaomi" },
+    { "sio": "Exchange" },
+    { "sio": "Google" },
+    { "sio": "Projector" },
+    { "sio": "Gadgets" },
+    { "sio": "Controller" },
+    { "sio": "Watch" },
+    { "sio": "Fan" },
+    { "sio": "Cleaner" },
+    { "sio": "Music" },
+    { "sio": "Sticker" }
+  ],
+
+  "sign": "Sign in",
+  "browse": "Browse",
+  "am": "Amazon",
+  "home": "Amozon Home",
+
+  "trend": [
+    {
+      "tr": "Trending",
+      "pro": ["Best Seller", "New Release", "Movers and Shakers"]
+    },
+    {
+      "tr": "Top Categories for you",
+      "pro": [
+        "Mobile",
+        "Computer",
+        "Books",
+        "Amazon Fashion",
+        "See All Categories"
+      ]
+    },
+    {
+      "tr": "Programs & Features",
+
+      "pro": [
+        "Today's Deals",
+        "Amazon Bazaar",
+        "Amazon Business",
+        "Amazon Pay",
+        "Amazon Launchpad",
+        "Handloom and Handicraft",
+        "Amazon Saheli",
+        "Try Prime"
+      ]
+    }
   ]
-},
-  { 
-    "tr": "Programs & Features",
-  
-  "pro":[
-    "Today's Deals",
-    "Amazon Bazaar",
-    "Amazon Business",
-    "Amazon Pay",
-    "Amazon Launchpad",
-    "Handloom and Handicraft",
-    "Amazon Saheli",
-    "Try Prime"
-  ]
-}
-
-]
-
-
-
-
-
-
-
 }
