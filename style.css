@@ -266,6 +266,12 @@ nav {
     font-family: "amber-regular";
 
 }
+.firstapple{
+  height: 100%;
+}
+.wrapper{
+  max-height: 600px;
+ }
 .spoon {
   background-image: url(https://m.media-amazon.com/images/S/sash/McBZv0ZvnbehkIx.png);
   background-size: 400px 900px;
@@ -608,14 +614,12 @@ font-size: 14px;
    width: 100%;
 }
 .firstapple img {
-  max-height: 366px;
+  max-height: 100%;
   object-fit: cover;
   max-width: 100%;
-  height: 100%;
 }
 .seconds img {
   display: flex;
-  /* margin: auto; */
   margin-top: 20px;
   max-width: 146px;
   max-height: 118px;
@@ -960,9 +964,9 @@ font-weight: 400;
 .looserfin {
   display: flex;
   width: 100%;
-  column-gap: 10px;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  column-gap: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
  }
  .appleMain{
   display: none;
