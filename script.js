@@ -738,28 +738,17 @@ applebox.appendChild(applemain)
         products(searchhere);
       });
 
-      let itemCount = 0;
-      const cartNumber = document.querySelector(".zero");
+        let itemCount = 0;
+const cartNumber = document.querySelector(".zero");
+const zeromob = document.querySelector('.zeromob');
 
-      const yellowcol = document.querySelectorAll(".yellowcol");
-      yellowcol.forEach(item=>item.addEventListener("click", function () {
-        itemCount++;
-        cartNumber.textContent = itemCount;
-      }));
+const yellowcol = document.querySelectorAll(".yellowcol");
 
-    
-      const  zeromob= document.querySelector('.zeromob')
-
-      const yellowcoln = document.querySelectorAll('.yellowcol')
-      yellowcoln.forEach(item=>item.addEventListener('click',function(){
-itemCount++
-zeromob.textContent = itemCount
-
-      }))
-
-
-
-
+yellowcol.forEach(item => item.addEventListener("click", function () {
+  itemCount++;
+  cartNumber.textContent = itemCount;  
+  zeromob.textContent = itemCount;     
+}));
 
     });
 });
