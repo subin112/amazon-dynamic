@@ -106,7 +106,7 @@ document.addEventListener("DOMContentLoaded", () => {
       rightmenu.appendChild(rightcontent);
 
       const leftwhite = document.querySelector(".leftwhite");
-      leftwhite.innerHTML = `<span class="woof">1-16 of over 2,000 results for "${data}"</span> <div class="nonemob">
+      leftwhite.innerHTML = `<span class="woof">1-16 of over 2,000 results for "mobile"</span> <div class="nonemob">
       <span class="primequal"></span> <span class="primadd"></span> 
       </div>`;
 
@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       data.deals.Ram.ramp.forEach((item) => {
         const intallLi = document.createElement("li");
-        intallLi.innerHTML = `<input type="checkbox" class="ramMob" value="${item}" <span>${item}</span>`;
+        intallLi.innerHTML = `<input type="checkbox" class="ramMob" value="${item}"> <span>${item}</span>`;
         ramList.appendChild(intallLi);
       });
 
@@ -385,7 +385,7 @@ document.addEventListener("DOMContentLoaded", () => {
       data.gridcolorafter.forEach((el) => {
         const remaincover = document.createElement("div");
         remaincover.className = "remained";
-        remaincover.innerHTML = el.dis;
+        remaincover.innerHTML = `<span>${el.dis}</span>`;
 
         const ultype = document.createElement("div");
         ultype.className = "ulremain";
@@ -437,6 +437,22 @@ document.addEventListener("DOMContentLoaded", () => {
       // apple
       const applebox = document.createElement("div");
       applebox.className = "apple-box";
+      
+      const applemain = document.createElement('div')
+      applemain.className = 'appleMain'
+      applemain.innerHTML = `
+<div class="rollF">
+  <img src="${data.date}" alt="">
+  <span class="noc">${data.iphone}</span>
+</div>
+<div class="rollD">
+  <div class="brown">${data.top}
+  
+  <span class="trap"></span></div>
+  <span class="afterbrown">${data.quality}</span>
+</div>
+`
+applebox.appendChild(applemain)
 
       const firstAppleWrapper = document.createElement("div");
       firstAppleWrapper.className = "wrapper";

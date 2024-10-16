@@ -107,7 +107,7 @@
 
   "gridbstar": [
     {
-      "brand": "brand",
+      "brand": "Brand",
       "brandarray": [
         "Apple",
         "Samsung",
@@ -268,6 +268,9 @@
   "date": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/fe9db514-7c60-4e9d-be00-4b9d15772028._CR0,0,400,400_AC_SX130_SY60_QL70_.png",
   "appletxt": "iPhone 16. Built for Apple Intelligence.",
   "shop": "Shop Apple India&nbsp;",
+  "iphone":"iphone 16.Build Apple Inteligence",
+  "top":"Top Brand",
+  "quality":"quality product  |  durable product  |  looks good",
 
   "appleArrray": [
     {
