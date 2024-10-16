@@ -649,6 +649,7 @@ input {
 }
 .rightSideMain {
   width: 84.3%;
+  position: relative;
 }
 .grey {
   background-color: #f7f7f7;
@@ -886,6 +887,8 @@ input {
   font-family: "amber-regular";
 }
 .mainSearchArea {
+  bottom: 0;
+  right: 20%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -914,10 +917,13 @@ input {
   border-left: 1px solid #d5d9d9;
 }
 .bottom {
-  height: 70px;
+  height: 170px;
 }
 .downsearch {
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    position: absolute;
+bottom: 2%;
+
 }
 .sign span {
   font-size: 12px;
@@ -1440,6 +1446,7 @@ input {
   }
   .downsearch {
     width: 80%;
+    bottom: 2%;
   }
   .pagination {
     width: 100%;

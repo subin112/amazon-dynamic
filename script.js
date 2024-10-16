@@ -530,7 +530,7 @@ applebox.appendChild(applemain)
         box.addEventListener("change", filterFunc);
       });
 
-      function products(productItem, page = 1, perpage = 8) {
+      function products(productItem, page = 1, perpage = 15) {
         const rightContent = document.querySelector(".mobileright");
         rightContent.innerHTML = "";
         const start = (page - 1) * perpage;
@@ -597,8 +597,7 @@ applebox.appendChild(applemain)
       }
       products(data.mobileGrid);
 
-    
-      function addpagination(totalItem, currentpage, perpage) {
+          function addpagination(totalItem, currentpage, perpage) {
         const downsearch = document.querySelector(".downsearch");
 
         if (!document.querySelector(".pagination")) {
