@@ -344,6 +344,7 @@ document.addEventListener("DOMContentLoaded", () => {
           secinside.className = "secOn";
           const inut = document.createElement("input");
           inut.type = "checkbox";
+          inut.value = item
           secinside.appendChild(inut);
           const span = document.createElement("label");
           span.innerHTML = item;
@@ -448,7 +449,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <div class="rollD">
   <div class="brown">${data.top}
   
-  <span class="trap"></span></div>
+  </div>
   <span class="afterbrown">${data.quality}</span>
 </div>
 `
@@ -740,11 +741,21 @@ applebox.appendChild(applemain)
       let itemCount = 0;
       const cartNumber = document.querySelector(".zero");
 
-      const yellowcol = rightmobinside.querySelector(".yellowcol");
-      yellowcol.addEventListener("click", function () {
+      const yellowcol = document.querySelectorAll(".yellowcol");
+      yellowcol.forEach(item=>item.addEventListener("click", function () {
         itemCount++;
         cartNumber.textContent = itemCount;
-      });
+      }));
+
+    
+      const  zeromob= document.querySelector('.zeromob')
+
+      const yellowcoln = document.querySelectorAll('.yellowcol')
+      yellowcoln.forEach(item=>item.addEventListener('click',function(){
+itemCount++
+zeromob.textContent = itemCount
+
+      }))
 
 
 
